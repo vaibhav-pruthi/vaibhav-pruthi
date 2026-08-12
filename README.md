@@ -11,9 +11,6 @@
   <a href="https://github.com/vaibhav-pruthi?tab=followers">
     <img src="https://img.shields.io/github/followers/vaibhav-pruthi?label=Followers&style=for-the-badge" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/vaibhav-pruthi?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvaibhav-pruthi&query=%24.public_repos&label=Public%20Repos&style=for-the-badge" alt="Public Repositories" />
-  </a>
 </p>
 
 <p align="center">
