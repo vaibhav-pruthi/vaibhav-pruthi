@@ -1,30 +1,230 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Pruthi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hi, I'm Vaibhav Pruthi
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-pruthi&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-pruthi" /> </p>
+<h3 align="center">
+  🚀 Full-Stack Developer • 🤖 AI/ML Enthusiast • 📊 Data Science Explorer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav-pruthi" alt="vaibhav-pruthi" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://portfolio-website-five-beryl-29.vercel.app/](https://portfolio-website-five-beryl-29.vercel.app/)
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **vaibhavpruthi556@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/170LpQ6Joi6RocT3oitIyqRZEJKF16DS7/view](https://drive.google.com/file/d/170LpQ6Joi6RocT3oitIyqRZEJKF16DS7/view)
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vaibhav-pruthi🇮🇳-83562128b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-pruthi🇮🇳-83562128b" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/vaibhav-pruthi">
+    <img src="https://komarev.com/ghpvc/?username=vaibhav-pruthi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/vaibhav-pruthi?tab=followers">
+    <img src="https://img.shields.io/github/followers/vaibhav-pruthi?label=Followers&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/vaibhav-pruthi?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvaibhav-pruthi&query=%24.public_repos&label=Public%20Repos&style=for-the-badge" alt="Public Repositories" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Real+Projects;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-pruthi&show_icons=true&locale=en&layout=compact" alt="vaibhav-pruthi" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav-pruthi&show_icons=true&locale=en" alt="vaibhav-pruthi" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-pruthi&" alt="vaibhav-pruthi" /></p>
+* 👨‍💻 Passionate about building **modern, scalable and user-friendly applications**
+* ⚛️ Working with **React, JavaScript, TypeScript and modern frontend technologies**
+* 🤖 Exploring **Artificial Intelligence, Machine Learning and AI-powered applications**
+* 📊 Interested in **Data Science, analytics and intelligent systems**
+* 🧠 Love solving real-world problems through technology
+* 🌱 Currently improving my **full-stack development and AI engineering skills**
+* 📍 Based in **India**
+* 🌐 Portfolio: **[Visit My Portfolio](https://portfolio-website-five-beryl-29.vercel.app/)**
+* 📄 Resume: **[View My Resume](https://drive.google.com/file/d/170LpQ6Joi6RocT3oitIyqRZEJKF16DS7/view)**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+</p>
+
+### ⚛️ Frontend
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45" alt="Redux"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
+</p>
+
+### 🔧 Backend & Databases
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" height="45" alt="Django"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase"/>
+</p>
+
+### 🤖 AI / Data / Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-pruthi&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github&theme=transparent" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-pruthi&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="180" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vaibhav-pruthi&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-pruthi&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaibhav-pruthi&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Profile Trophy"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🤖 HireSense AI — Resume & ATS Shortlisting Agent
+
+AI-powered recruitment and resume screening platform designed to analyze candidates against job requirements and support intelligent shortlisting.
+
+<a href="https://github.com/vaibhav-pruthi/-resume-scout-ai-48">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhav-pruthi&repo=-resume-scout-ai-48&hide_border=true&theme=transparent" alt="HireSense AI"/>
+</a>
+
+### 🔐 PII Redaction Tool
+
+Privacy-focused application for detecting and redacting personally identifiable information using a hybrid detection approach.
+
+<a href="https://github.com/vaibhav-pruthi/PII-Redaction-Tool---AI-Labs-Assignment">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhav-pruthi&repo=PII-Redaction-Tool---AI-Labs-Assignment&hide_border=true&theme=transparent" alt="PII Redaction Tool"/>
+</a>
+
+### 💬 Real-Time Chat Application
+
+A real-time communication application focused on responsive UI and live messaging functionality.
+
+<a href="https://github.com/vaibhav-pruthi/Real-Time_ChatApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhav-pruthi&repo=Real-Time_ChatApp&hide_border=true&theme=transparent" alt="Real-Time Chat App"/>
+</a>
+
+### 🚨 Accident Detection Web App
+
+Web-based application focused on accident detection and intelligent monitoring.
+
+<a href="https://github.com/vaibhav-pruthi/Accident-Detection-Web-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhav-pruthi&repo=Accident-Detection-Web-App&hide_border=true&theme=transparent" alt="Accident Detection Web App"/>
+</a>
+
+### 🌾 KisanAI
+
+AI-oriented project focused on building technology-driven solutions for the agriculture domain.
+
+<a href="https://github.com/vaibhav-pruthi/kisanAI_project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhav-pruthi&repo=kisanAI_project&hide_border=true&theme=transparent" alt="KisanAI"/>
+</a>
+
+### 📊 Data Science Project
+
+A collection of data-science-oriented work exploring analysis, modelling and machine learning concepts.
+
+<a href="https://github.com/vaibhav-pruthi/DataScience_project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhav-pruthi&repo=DataScience_project&hide_border=true&theme=transparent" alt="Data Science Project"/>
+</a>
+
+---
+
+## 💻 More Projects
+
+<p align="center">
+  <a href="https://github.com/vaibhav-pruthi?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%2027%2B%20Repositories-0E75B6?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
+  </a>
+</p>
+
+---
+
+## 📚 Current Focus
+
+```text
+Frontend Development     ████████████████████░░░░
+Full-Stack Development   ██████████████████░░░░░░
+Artificial Intelligence  █████████████████░░░░░░░
+Data Science             ███████████████░░░░░░░░░
+System Design            ████████████░░░░░░░░░░░░
+Open Source              ██████████░░░░░░░░░░░░░░
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/vaibhav-pruthi🇮🇳-83562128b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vaibhavpruthi556@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://portfolio-website-five-beryl-29.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/vaibhav-pruthi">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vaibhav-pruthi/vaibhav-pruthi/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+## ✨ Fun Fact
+
+> 💡 I believe the best way to learn technology is to build something with it.
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" alt="Footer"/>
+</p>
