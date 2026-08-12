@@ -199,14 +199,6 @@ Open Source              ██████████░░░░░░░░�
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vaibhav-pruthi/vaibhav-pruthi/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
----
-
 ## ✨ Fun Fact
 
 > 💡 I believe the best way to learn technology is to build something with it.
