@@ -129,7 +129,7 @@
 AI-powered recruitment and resume screening platform designed to analyze candidates against job requirements and support intelligent shortlisting.
 
 <a href="https://github.com/vaibhav-pruthi/-resume-scout-ai-48">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhav-pruthi&repo=-resume-scout-ai-48&hide_border=true&theme=transparent" alt="HireSense AI"/>
+  HireSense AI
 </a>
 
 ### 🔐 PII Redaction Tool
@@ -137,7 +137,7 @@ AI-powered recruitment and resume screening platform designed to analyze candida
 Privacy-focused application for detecting and redacting personally identifiable information using a hybrid detection approach.
 
 <a href="https://github.com/vaibhav-pruthi/PII-Redaction-Tool---AI-Labs-Assignment">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhav-pruthi&repo=PII-Redaction-Tool---AI-Labs-Assignment&hide_border=true&theme=transparent" alt="PII Redaction Tool"/>
+  PII Redaction Tool
 </a>
 
 ### 💬 Real-Time Chat Application
@@ -145,7 +145,7 @@ Privacy-focused application for detecting and redacting personally identifiable 
 A real-time communication application focused on responsive UI and live messaging functionality.
 
 <a href="https://github.com/vaibhav-pruthi/Real-Time_ChatApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhav-pruthi&repo=Real-Time_ChatApp&hide_border=true&theme=transparent" alt="Real-Time Chat App"/>
+  Real-Time Chat App
 </a>
 
 ### 🚨 Accident Detection Web App
@@ -153,8 +153,7 @@ A real-time communication application focused on responsive UI and live messagin
 Web-based application focused on accident detection and intelligent monitoring.
 
 <a href="https://github.com/vaibhav-pruthi/Accident-Detection-Web-App">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhav-pruthi&repo=Accident-Detection-Web-App&hide_border=true&theme=transparent" alt="Accident Detection Web App"/> -->
-  Accident Detection Web App
+  Accident Detection Web App 
 </a>
 ---
 
