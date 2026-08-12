@@ -84,12 +84,24 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-pruthi&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github&theme=transparent" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-pruthi&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="180" alt="Top Languages"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vaibhav-pruthi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-pruthi&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vaibhav-pruthi&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
+  <img 
+    src="https://streak-stats.demolab.com/?user=vaibhav-pruthi&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
