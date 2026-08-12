@@ -153,7 +153,8 @@ A real-time communication application focused on responsive UI and live messagin
 Web-based application focused on accident detection and intelligent monitoring.
 
 <a href="https://github.com/vaibhav-pruthi/Accident-Detection-Web-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhav-pruthi&repo=Accident-Detection-Web-App&hide_border=true&theme=transparent" alt="Accident Detection Web App"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhav-pruthi&repo=Accident-Detection-Web-App&hide_border=true&theme=transparent" alt="Accident Detection Web App"/> -->
+  Accident Detection Web App
 </a>
 ---
 
