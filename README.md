@@ -146,23 +146,6 @@ Web-based application focused on accident detection and intelligent monitoring.
 <a href="https://github.com/vaibhav-pruthi/Accident-Detection-Web-App">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhav-pruthi&repo=Accident-Detection-Web-App&hide_border=true&theme=transparent" alt="Accident Detection Web App"/>
 </a>
-
-### 🌾 KisanAI
-
-AI-oriented project focused on building technology-driven solutions for the agriculture domain.
-
-<a href="https://github.com/vaibhav-pruthi/kisanAI_project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhav-pruthi&repo=kisanAI_project&hide_border=true&theme=transparent" alt="KisanAI"/>
-</a>
-
-### 📊 Data Science Project
-
-A collection of data-science-oriented work exploring analysis, modelling and machine learning concepts.
-
-<a href="https://github.com/vaibhav-pruthi/DataScience_project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhav-pruthi&repo=DataScience_project&hide_border=true&theme=transparent" alt="Data Science Project"/>
-</a>
-
 ---
 
 ## 💻 More Projects
