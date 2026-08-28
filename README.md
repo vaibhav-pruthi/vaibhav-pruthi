@@ -79,6 +79,8 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/>
 </p>
 
+---
+---
 ## 🌟 Featured Projects
 
 ### 🤖 HireSense AI — Resume & ATS Shortlisting Agent
