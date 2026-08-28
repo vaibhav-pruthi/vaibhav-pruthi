@@ -78,19 +78,6 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/>
 </p>
----
-### 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-pruthi&bg_color=0d1117&color=ff79c6&line=bd93f9&point=ff79c6&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-    width="100%"
-  />
-</p>
-
----
-
 
 ## 🌟 Featured Projects
 
