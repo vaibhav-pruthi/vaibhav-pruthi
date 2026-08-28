@@ -80,7 +80,7 @@
 </p>
 
 ---
----
+
 ## 🌟 Featured Projects
 
 ### 🤖 HireSense AI — Resume & ATS Shortlisting Agent
@@ -125,7 +125,7 @@ Web-based application focused on accident detection and intelligent monitoring.
 </p>
 
 ---
----
+
 
 ### 📊 GitHub Stats
 
