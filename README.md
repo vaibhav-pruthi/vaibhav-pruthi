@@ -81,10 +81,14 @@
 
 ---
 
-## 📈 Contribution Activity
+### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-pruthi&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-pruthi&theme=github-dark&hide_border=true&area=true&color=ff79c6&line=bd93f9&point=ff79c6"
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
 </p>
 
 ---
