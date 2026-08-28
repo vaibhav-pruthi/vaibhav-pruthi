@@ -138,13 +138,13 @@ Web-based application focused on accident detection and intelligent monitoring.
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <!-- GitHub Stats Card -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=vaibhav-pruthi&show_icons=true&theme=radical&hide_border=true&count_private=true"
     alt="Vaibhav's GitHub Stats"
   />
-</p>
+</p> -->
 
 <p align="center">
   <!-- GitHub Streak -->
@@ -154,13 +154,13 @@ Web-based application focused on accident detection and intelligent monitoring.
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <!-- Top Languages Card -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-pruthi&layout=compact&theme=radical&hide_border=true"
     alt="Top Languages"
   />
-</p>
+</p> -->
 
 ---
 
@@ -180,18 +180,18 @@ Open Source              ██████████░░░░░░░░�
 ## 🤝 Let's Connect
 
 <p align="center">
-  <!-- <a href="https://linkedin.com/in/vaibhav-pruthi🇮🇳-83562128b">
+  <a href="https://linkedin.com/in/vaibhav-pruthi🇮🇳-83562128b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> -->
+  </a>
   <a href="mailto:vaibhavpruthi556@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://portfolio-website-five-beryl-29.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <!-- <a href="https://github.com/vaibhav-pruthi">
+  <a href="https://github.com/vaibhav-pruthi">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a> -->
+  </a>
 </p>
 
 ---
