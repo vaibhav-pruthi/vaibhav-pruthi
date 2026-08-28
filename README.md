@@ -138,13 +138,7 @@ Web-based application focused on accident detection and intelligent monitoring.
 
 ### 📊 GitHub Stats
 
-<!-- <p align="center">
-  <!-- GitHub Stats Card -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vaibhav-pruthi&show_icons=true&theme=radical&hide_border=true&count_private=true"
-    alt="Vaibhav's GitHub Stats"
-  />
-</p> -->
+
 
 <p align="center">
   <!-- GitHub Streak -->
@@ -153,14 +147,6 @@ Web-based application focused on accident detection and intelligent monitoring.
     alt="GitHub Streak"
   />
 </p>
-
-<!-- <p align="center">
-  <!-- Top Languages Card -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-pruthi&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages"
-  />
-</p> -->
 
 ---
 
