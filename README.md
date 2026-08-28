@@ -134,6 +134,18 @@ Web-based application focused on accident detection and intelligent monitoring.
 </p>
 
 ---
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=vaibhav-pruth&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
 
 ## 📚 Current Focus
 
