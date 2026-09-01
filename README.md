@@ -114,6 +114,8 @@ Web-based application focused on accident detection and intelligent monitoring.
 <a href="https://github.com/vaibhav-pruthi/Accident-Detection-Web-App">
   Accident Detection Web App 
 </a>
+
+
 ---
 
 ## 💻 More Projects
